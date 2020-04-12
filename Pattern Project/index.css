@@ -1,0 +1,9 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    /* background: #000; */
+    background: url("file:///home/harsh/DEV/html/Pattern Project/imgs/header.jpeg");
+}
+

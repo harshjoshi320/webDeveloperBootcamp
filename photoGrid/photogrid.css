@@ -1,0 +1,21 @@
+body {
+	background: #EEEEEE;
+	font-family: "Raleway", sans-serif;
+}
+
+h1 {
+	text-align: left;
+	font-size: 18;
+	font-weight: medium;
+	width: 30%;
+	float: none;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #DDDDDD;
+	margin-left: 1.66%;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
